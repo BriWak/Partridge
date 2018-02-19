@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPartridgeSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPartridge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return 'Lynn, I've pierced my foot on a spike!!' if list is empty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return Mine's a Pint! if list contains Partridge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return Mine's a Pint!! if list contains Partridge and PearTree[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return Mine's a Pint!!! if list contains Partridge, PearTree, Nomad, and another value[0m[0m

@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/digital004333/IdeaProjects/Partridge/src/main/scala/Partridge.scala:11:12: patterns after a variable pattern cannot match (SLS 8.1.1)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      case x => some + "!" * x[0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/digital004333/IdeaProjects/Partridge/src/main/scala/Partridge.scala:12:17: unreachable code due to variable pattern 'x' on line 11[0m
+[0m[[0m[33mwarn[0m] [0m[0m      case _ => "Please enter a string"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

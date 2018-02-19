@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/digital004333/IdeaProjects/Partridge/src/test/scala/PartridgeSpec.scala:24:62: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int(1)[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m      Partridge.part(Array("Partridge", "PearTree", "Nomad", 1)) mustEqual "Mine's a Pint!!!"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
